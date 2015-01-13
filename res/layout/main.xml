@@ -7,22 +7,9 @@
     <TextView
         android:name="Room_Name"
         android:id="@+id/Room_Name"
-        android:textSize="50sp"
-        android:textStyle="italic"
-        android:layout_gravity="center"
-        android:layout_width="fill_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:typeface="serif"
-        android:text="Room_Name"
-    />
-    <TextView
-        android:id="@+id/Description"
-        android:textSize="20sp"
-        android:textAlignment="center"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:typeface="serif"
-        android:text="Description room"
+        android:text="test_loli"
     />
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
                   android:orientation="vertical"
